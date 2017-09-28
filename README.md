@@ -14,4 +14,4 @@ $ nodebrew install-binary stable
 ```
 $ npm i -g electron --save-dev --save-exact
 ```
-
+https://qiita.com/nyanchu/items/15d514d9b9f87e5c0a29
