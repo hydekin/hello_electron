@@ -14,7 +14,7 @@ $ nodebrew install-binary stable
 ```
 $ npm i -g electron --save-dev --save-exact
 ```
-3. references
+3. references  
 https://qiita.com/nyanchu/items/15d514d9b9f87e5c0a29
 https://electron.atom.io/docs/tutorial/installation/
 
